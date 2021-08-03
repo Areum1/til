@@ -1,12 +1,12 @@
-import React from 'react';
-import UseStateText from '../component/useStateText/useStateText';
+import React from "react";
+import UseStateText from "../component/useStateText/useStateText";
 
 const useStatePage = () => {
-    return (
-        <>
-            <UseStateText />
-        </>
-    )
-}
+  return (
+    <>
+      <UseStateText />
+    </>
+  );
+};
 
 export default useStatePage;

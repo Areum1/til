@@ -1,12 +1,12 @@
-import React from 'react';
-import UseInputText from '../component/useInputText/useInputText';
+import React from "react";
+import UseInputText from "../component/useInputText/useInputText";
 
 const useInputPage = () => {
-    return (
-        <>
-            <UseInputText />
-        </>
-    )
-}
+  return (
+    <>
+      <UseInputText />
+    </>
+  );
+};
 
 export default useInputPage;

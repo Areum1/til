@@ -12,3 +12,6 @@ export { default as useTabsPage } from "./useTabsPage";
 
 // UseEffect 정리
 export { default as useEffectPage } from "./useEffectPage";
+
+// UseTitle 정리
+export { default as useTitlePage } from "./useTitlePage";

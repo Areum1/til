@@ -7,7 +7,8 @@ const Main = () => {
       <a href="/useState">useState</a> <br/>
       <a href="/useInput">useInput</a> <br/>
       <a href="/useTabs">useTabs</a> <br/>
-      <a href="/useEffect">useEffect</a>
+      <a href="/useEffect">useEffect</a> <br/>
+      <a href="/useTitle">useTitle</a> <br/>
     </>
   );
 };
